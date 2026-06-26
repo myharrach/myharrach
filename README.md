@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Java · SQL · K8s" width="100%" />
+  <img src="./spray_banner.gif" alt="Java · SQL · K8s" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohamed Yassine</h1>
